@@ -1,10 +1,16 @@
 # Awesome_Visually-Augmented_NLP
 
-<font size=6><center><big><b> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) </b></big></center></font>
+🖼️Latest Papers on Visually(Imagination)-Augmented NLP
 
 Visually(Imagination)-augmented NLP here refers to the field of research on **solving natural language processing tasks (mainly uni-modal language generation) using relevant images inside the model to improve the accuracy of the task**.
 
 Unlike Multimodal NLP and Vision-and-Language, the only input/output to the model is text, and images related to the input are retrieved or generated inside the model and used to generate text for the output.
+
+<p align="center">
+    <a href="https://awesome.re">
+        <img alt="awesome", src="https://awesome.re/badge.svg">
+    </a>
+</p>
 
 <p align="center">
   <img src="./example.png" width="50%">
