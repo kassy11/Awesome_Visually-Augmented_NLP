@@ -6,7 +6,9 @@ Visually(Imagination)-augmented NLP here refers to the field of research on **so
 
 Unlike Multimodal NLP and Vision-and-Language, the only input/output to the model is text, and images related to the input are retrieved or generated inside the model and used to generate text for the output.
 
-<center><img src="./example.png" width="50%"></center>
+<p align="center">
+  <img src="./example.png" width="50%">
+</p>
 
 | Title                                                        | Link                                              | Date       | Code                                                   |
 | :----------------------------------------------------------- | :------------------------------------------------ | :--------- | :----------------------------------------------------- |
