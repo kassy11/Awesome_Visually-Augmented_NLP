@@ -35,6 +35,7 @@ Unlike Multimodal NLP and Vision-and-Language, the only input/output to the mode
 | Leveraging Visual Knowledge in Language Tasks: An Empirical Study on Intermediate Pre-training for Cross-modal Knowledge Transfer | https://arxiv.org/abs/2203.07519                  | 2022/05/14 |                                                        |
 | Text is NOT Enough: Integrating Visual Impressions into Open-domain Dialogue Generation | https://arxiv.org/abs/2109.05778                  | 2021/09/13 |                                                        |
 | Maria: A Visual Experience Powered Conversational Agent      | https://arxiv.org/abs/2105.13073                  | 2021/05/27 | [Code](https://github.com/jokieleung/Maria)            |
+| Experience Grounds Language       |       https://aclanthology.org/2020.emnlp-main.703/         | 2020/11 |           |
 | Vokenization: Improving Language Understanding with Contextualized, Visual-Grounded Supervision | https://arxiv.org/abs/2010.06775                  | 2020/10/14 | [Code](https://github.com/airsplay/vokenization)       |
 | Open Domain Dialogue Generation with Latent Images           | https://arxiv.org/abs/2004.01981                  | 2020/04/04 |                                                        |
 
